@@ -1,0 +1,16 @@
+{
+  "name": "wcd",
+  "version": "1.0.0",
+  "description": "Web Cache Deception Scanner",
+  "license": "ISC",
+  "author": "Piyush Kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js --req request.txt --ch X-Cache --debug"
+  },
+  "devDependencies": {
+    "minimist": "^1.2.8",
+    "node-fetch": "^2.7.0"
+  }
+}
