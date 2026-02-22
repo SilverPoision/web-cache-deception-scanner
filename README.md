@@ -12,13 +12,12 @@
 - Modular architecture (parser, detector, HTTP, utils)
 - Stops execution only after confirmed cache deception
 
+
 ## Installation
 
 ### Requirements
 - Node.js 14+
 - npm
-
-### Dependencies
 
 ```bash
 git clone https://github.com/SilverPoision/web-cache-deception-scanner.git
