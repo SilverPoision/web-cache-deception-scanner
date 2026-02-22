@@ -21,6 +21,8 @@
 ### Dependencies
 
 ```bash
+git clone https://github.com/SilverPoision/web-cache-deception-scanner.git
+
 npm install node-fetch@2 minimist
 or
 npm install
